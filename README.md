@@ -40,3 +40,10 @@ With the help of OpenCV I have made use of deep learning and computer vision rat
 2. The module reads the gestures and verify and processes them for further objectives. 
 3. The module sends the commands to the NodeMCU which has ESP2866 wifi chip and further transmits it to the MCU board for the movement of object. 
 4. The NodeMCU board processes the commands and provides us the right combination of DC motors and tyres for the desired movement of car.
+
+
+## **Steps To Run the Project**
+---
+```
+
+```
