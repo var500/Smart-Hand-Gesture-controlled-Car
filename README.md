@@ -1,7 +1,7 @@
-# Smart-Hand-Gesture-controlled-Car
+# **Smart-Hand-Gesture-controlled-Car**
 A smart Iot Based car which can be controlled through hand gesture commands fetched from the Laptops webcam
 
-## Description
+## **Description**
 Traditionally objects were moved using the human external forces but now the scenario has been changed by the automation revolution which has reduced human efforts.
 
 The automatic movement of objects began gradually step by step as first there were hand gears used to move the objects.
@@ -12,14 +12,14 @@ With the help of OpenCV I have made use of deep learning and computer vision rat
 
 
 
-## Techiniques
+## **Techiniques**
 
 * Deep Learning
 * Multithreading
 * Wireless Connection using ESP8266
 * Multicontroller Programming
 
-## Hardware Used
+## **Hardware Used**
 
 * NodeMCU ESP8266
 * L298N Servo Sheild
@@ -28,13 +28,13 @@ With the help of OpenCV I have made use of deep learning and computer vision rat
 * Breadnboard
 * 3pc 18650 Batteries (preffered) else can be used with 4 AA battries
 
-## Software Used
+## **Software Used**
 
 * Open CV
 * Python IDE
 * Arduino IDE
 
-## Project Flow
+## **Project Flow**
 
 1. In the first step ,the gestures are presented in front of the camera and then they are sent to the recognition module.
 2. The module reads the gestures and verify and processes them for further objectives. 
@@ -43,7 +43,7 @@ With the help of OpenCV I have made use of deep learning and computer vision rat
 
 
 ## **Steps To Run the Project**
----
+
 
 1. Upload the [Esp Wifi code](./esp_wifi/esp_wifi.ino) to the NodeMCU
 
@@ -54,3 +54,9 @@ With the help of OpenCV I have made use of deep learning and computer vision rat
 * [Finger Counter.py](./HandTrackingProject/FingerCounter.py)
 
 3. Run the [Finger Counter Python code](./HandTrackingProject/FingerCounter.py)
+
+## **Modle**
+![CarImage](./Output/car.png?raw=true "Chassis image")
+
+## **Circuit Diagram**
+![CircuitDiagram](./Output/Circuit%20diagram.png?raw=true "Circuit Diagram image")
