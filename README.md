@@ -45,7 +45,7 @@ With the help of OpenCV I have made use of deep learning and computer vision rat
 ## **Steps To Run the Project**
 ---
 
-1. Upload the [code](./esp_wifi/esp_wifi.ino) to the NodeMCU
+1. Upload the [Esp Wifi code](./esp_wifi/esp_wifi.ino) to the NodeMCU
 
 2. Update the Ip address of MCU within the files:
 
