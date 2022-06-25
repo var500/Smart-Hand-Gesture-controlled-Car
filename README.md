@@ -55,7 +55,7 @@ With the help of OpenCV I have made use of deep learning and computer vision rat
 
 3. Run the [Finger Counter Python code](./HandTrackingProject/FingerCounter.py)
 
-## **Modle**
+## **Model**
 ![CarImage](./Output/car.png?raw=true "Chassis image")
 
 ## **Circuit Diagram**
