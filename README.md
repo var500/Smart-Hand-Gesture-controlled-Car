@@ -13,14 +13,14 @@ With the help of OpenCV I have made use of deep learning and computer vision rat
 
 
 ## Techiniques
----
+
 * Deep Learning
 * Multithreading
 * Wireless Connection using ESP8266
 * Multicontroller Programming
 
 ## Hardware Used
----
+
 * NodeMCU ESP8266
 * L298N Servo Sheild
 * DC Motors
@@ -29,13 +29,13 @@ With the help of OpenCV I have made use of deep learning and computer vision rat
 * 3pc 18650 Batteries (preffered) else can be used with 4 AA battries
 
 ## Software Used
----
+
 * Open CV
 * Python IDE
 * Arduino IDE
 
 ## Project Flow
----
+
 1. In the first step ,the gestures are presented in front of the camera and then they are sent to the recognition module.
 2. The module reads the gestures and verify and processes them for further objectives. 
 3. The module sends the commands to the NodeMCU which has ESP2866 wifi chip and further transmits it to the MCU board for the movement of object. 
