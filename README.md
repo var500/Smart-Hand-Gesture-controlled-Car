@@ -45,9 +45,12 @@ With the help of OpenCV I have made use of deep learning and computer vision rat
 ## **Steps To Run the Project**
 ---
 
-Upload the [code](./esp_wifi/esp_wifi.ino) to the NodeMCU
-Update the Ip address of MCU within the files:
+1. Upload the [code](./esp_wifi/esp_wifi.ino) to the NodeMCU
 
-1. [Esp to Python.py](./HandTrackingProject/esp_python.py)
+2. Update the Ip address of MCU within the files:
 
-2. [Finger Counter.py](./HandTrackingProject/FingerCounter.py)
+* [Esp to Python.py](./HandTrackingProject/esp_python.py)
+
+* [Finger Counter.py](./HandTrackingProject/FingerCounter.py)
+
+3. Run the [Finger Counter Python code](./HandTrackingProject/FingerCounter.py)
